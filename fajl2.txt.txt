@@ -1,2 +1,6 @@
 test data
 for fajl2.txt
+
+test
+test
+test
